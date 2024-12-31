@@ -1,4 +1,4 @@
-package com.raff.study_spring_app.service.configuration;
+package com.raff.study_spring_app.configuration;
 
 import org.springframework.context.annotation.Configuration;
 
